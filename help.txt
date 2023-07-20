@@ -1,2 +1,6 @@
 my phone number is 0898276251
+<<<<<<< HEAD
 my email is fiatlovely42@gmail.com
+=======
+my email is 6411130056@mut.ac.th
+>>>>>>> c1e8bc679b6326cdcea1bf6b7fe52e217702e417
